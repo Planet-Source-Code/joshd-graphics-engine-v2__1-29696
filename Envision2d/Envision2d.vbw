@@ -1,0 +1,11 @@
+ZOrder = 22, 22, 547, 462, 
+Envision2d = 88, 88, 555, 528, C
+Animation = 66, 66, 533, 506, C
+BitmapFont = 88, 88, 555, 528, C
+modEnvision2D = 110, 110, 577, 550, 
+Colour = 66, 66, 533, 506, C
+FontSpec = 132, 132, 599, 572, 
+Screenshot = 198, 198, 673, 646, 
+TileSet = 220, 220, 695, 668, Z
+Sprite = 132, 132, 607, 580, 
+Element = 66, 66, 541, 514, 
